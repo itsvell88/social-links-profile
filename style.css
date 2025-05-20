@@ -16,6 +16,8 @@ body {
   font-family: "Inter";
   font-style: normal;
   color: hsl(0, 0%, 100%);
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
 /* * */
