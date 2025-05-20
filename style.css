@@ -16,8 +16,8 @@ body {
   font-family: "Inter";
   font-style: normal;
   color: hsl(0, 0%, 100%);
-  margin-top: 3em;
-  margin-bottom: 3em;
+  padding-top: 3em;
+  padding-bottom: 3em;
 }
 
 /* * */
@@ -97,9 +97,9 @@ button:hover {
 
 .attribution {
   margin-top: 5em;
+  font-size: 0.8em;
 }
 
 a {
   color: hsl(75, 94%, 57%);
-  font-size: 1em;
 }
