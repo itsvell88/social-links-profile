@@ -103,3 +103,17 @@ button:hover {
 a {
   color: hsl(75, 94%, 57%);
 }
+
+/* * */
+/* Mobile Version */
+@media (max-width: 500px) {
+  body {
+    padding: 1em;
+    margin: 1em;
+  }
+
+  .profile-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
